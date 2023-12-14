@@ -1,5 +1,5 @@
 # CRUD-Java
-Projeto de CRUD, usand a linguagem Java e JFrame.
+Projeto de CRUD, usand a linguagem Java.
 
 ## Sobre
 No projeto foram desenvolvidas operações CRUD (Create, Read, Update e Delete) para a manipulação de dados em classes, inicialmente 
